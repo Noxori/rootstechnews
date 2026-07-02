@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
-    "prebuild": "cp _headers public/_headers && cp _redirects public/_redirects",
+    "prebuild": "cp _headers public/_headers",
     "postbuild": "cp dist/index.html dist/404.html",
     "lint": "oxlint",
     "preview": "vite preview"
