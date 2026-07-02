@@ -1,0 +1,7 @@
+{
+  "assets": {
+    "directory": "./dist",
+    "binding": "ASSETS"
+  },
+  "compatibility_date": "2025-07-01"
+}
